@@ -21,17 +21,17 @@ public class SnackbarUtil {
     public static final int Info = 1;
     public static final int Warning = 3;
     public static final int Alert = 4;
-    private static final int Confirm = 2;
     public static final int Facebook = 5;
     public static final int Twitter = 6;
     public static final int Google = 7;
+    private static final int Confirm = 2;
     private static final int red = 0xfff44336;
     private static final int green = 0xff4caf50;
     private static final int blue = 0xff2195f3;
     private static final int orange = 0xffffc107;
     private static final int facebook = 0xff3B5998;
-    private static final int google = 0xff3B5998;
-    private static final int twitter = 0xff3B5998;
+    private static final int google = 0xFFFFFFFF;
+    private static final int twitter = 0xFF5BAAF4;
 
     /**
      * 短显示Snackbar，自定义颜色
@@ -147,7 +147,7 @@ public class SnackbarUtil {
                 setSnackbarColor(snackbar, twitter);
                 break;
             case Google:
-                setSnackbarColor(snackbar, google);
+                setSnackbarColor(snackbar, red, google);
                 break;
         }
     }

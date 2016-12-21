@@ -44,6 +44,14 @@
             </intent-filter>
         </activity>
         <!-- facebook login end-->
+
+
+        <!--twitter login begin-->
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="9efdd16b8994bf61dd239a36109a6ec1f71bf699" />
+
+        <!--twitter login end-->
     </application>
 
 </manifest>
