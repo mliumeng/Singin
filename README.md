@@ -1,2 +1,1 @@
-# Sign In
-login with Google+ Facebook Twitter
+# Singinlogin with Google+ Facebook Twitter![NEXUS-5-login](https://github.com/mliumeng/Singin/blob/master/Image/LGE-NEXUS-5-2016-12-22-10-05-04.gif)
