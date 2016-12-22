@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Singin</string>
+    <string name="app_name">Sign In</string>
     <string name="facebook_app_id">1789000238021277</string>
     <string name="fb_login_protocol_scheme">fb1789000238021277</string>
 </resources>

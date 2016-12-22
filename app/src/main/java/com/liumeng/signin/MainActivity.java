@@ -1,4 +1,4 @@
-package com.liumeng.singin;
+package com.liumeng.signin;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -22,7 +22,7 @@ import com.google.android.gms.auth.api.signin.GoogleSignInResult;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.SignInButton;
 import com.google.android.gms.common.api.GoogleApiClient;
-import com.liumeng.singin.utils.SnackbarUtil;
+import com.liumeng.signin.utils.SnackbarUtil;
 import com.twitter.sdk.android.Twitter;
 import com.twitter.sdk.android.core.Callback;
 import com.twitter.sdk.android.core.Result;

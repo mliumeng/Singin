@@ -1,4 +1,4 @@
-package com.liumeng.singin.utils;
+package com.liumeng.signin.utils;
 
 import android.graphics.Color;
 import android.support.design.widget.Snackbar;
@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.liumeng.singin.R;
+import com.liumeng.signin.R;
 
 
 /**
