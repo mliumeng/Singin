@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1002847785211",
+    "project_id": "test-1484a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002847785211:android:88d535ce4a7692a7",
+        "android_client_info": {
+          "package_name": "com.liumeng.singin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002847785211-rcg5jjoctf8lpfd3evs8sc4kiod8r9h2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.liumeng.singin",
+            "certificate_hash": "E09D44DDD9F41F757A6E9875873700099A85D2BE"
+          }
+        },
+        {
+          "client_id": "1002847785211-c4o0ssseandfdbeumendm66kp2oni033.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE_0B1vlcMzf51H4mrRGwVUPbKbbgKOWI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
